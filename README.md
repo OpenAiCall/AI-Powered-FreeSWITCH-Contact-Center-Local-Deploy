@@ -132,11 +132,17 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 ![image](https://github.com/user-attachments/assets/ac90112f-311d-4ebb-8206-dff3ae643ee9)
 ![image](https://github.com/user-attachments/assets/ca05d14b-64f3-411f-9729-715f94f2c3b7)
 
-
-
-
-
-
-
-
-   
+# FreeIPCC's screenshot
+![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
+![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
+![freeaicc二维码](https://github.com/user-attachments/assets/6b7856ef-35e3-4bb0-8d65-5f251f7d6ea4)
+![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
+![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
+![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
+![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
+![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
+![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
+![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
+![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
+![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
+![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
