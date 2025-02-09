@@ -5,7 +5,7 @@ AI-Powered FreeSWITCH contact center system,AI-enhanced call center system, base
 ## 😄Sustainability: It has been continuously iterating since 2014, and the members are very experienced and long-term!
 
 # Our goal
-Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems! ! !
+Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems!!!
 ## 📫 How to reach us:
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
@@ -27,14 +27,14 @@ http://118.25.192.13:80
 
 # FreeIPCC's vision and basic functions
 
-## Vision:
+## Vision
 Our vision is to create an open, flexible and powerful open source call center solution that enables global enterprises and organizations, regardless of size, to easily build and operate their own customer service systems.
 
 We believe that by sharing source code, promoting technological innovation and collaboration, we can break the barriers of traditional call centers and benefit every developer, business owner and even end user.
 
 Our goal is not just to provide a tool, but to build an ecosystem that allows users from different backgrounds and different needs to jointly explore, customize and optimize the functions and experience of the call center, and ultimately promote the progress and development of the entire customer service industry!
 
-## Basic functions:
+## Basic functions:=
 1. Multi-channel access: Supports multiple customer communication channels such as phone, SMS, social media, email, web chat, etc., to achieve seamless docking and unified management of customer needs.
 2. Intelligent routing: Based on preset rules or AI algorithms, automatically assign customer requests to the most appropriate customer service representative or self-service module to ensure that customer issues are handled promptly and professionally.
 3. IVR (Interactive Voice Response) System: Provides flexible voice menu design to guide customers to complete common operations such as inquiries and repairs by themselves, reduce the pressure on manual seats, and improve service efficiency.
