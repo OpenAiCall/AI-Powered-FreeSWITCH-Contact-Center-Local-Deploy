@@ -12,7 +12,7 @@ Committed to becoming: a global leader in large-model call center systems, large
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.02.13 latest demo link enjoy😄:
+## 2025.02.14 latest demo link enjoy😄:
 1. Telephone/online customer service:
 http://118.25.192.13:8822/cc
  (demo123/demo123@Abc)
