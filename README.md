@@ -12,7 +12,7 @@ Committed to becoming: a global leader in large-model call center systems, large
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.02.21 latest demo link enjoy😄:
+## 2025.02.23 latest demo link enjoy😄:
 1. Telephone/online customer service:
 http://118.25.192.13:8822/cc
  (demo123/demo123@Abc)
@@ -146,3 +146,4 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 ![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
+## 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
