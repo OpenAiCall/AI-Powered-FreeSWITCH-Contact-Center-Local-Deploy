@@ -16,11 +16,11 @@ Committed to becoming: a global leader in large-model call center systems, large
 
 ## 2025.04.24 latest demo link enjoy😄:
 1. Telephone/online customer service:
-http://118.25.192.13:8822/cc
+http://124.220.48.38:8822/cc
  (demo123/demo123@Abc)
  
 2. Work order:
-http://118.25.192.13:80
+http://124.220.48.38:80
  (demo/123456)
 
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
