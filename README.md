@@ -1,5 +1,5 @@
 # AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
-AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!!!!!!!!
+AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!
 
 ## 😄We firmly believe that only when the software is used can it bring value to users and allow itself to iterate
 ## 😄Sustainability: It has been continuously iterating since 2014, and the members are very experienced and long-term
@@ -14,7 +14,7 @@ Committed to becoming: a global leader in large-model call center systems, large
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.06.01 latest demo link enjoy😄:
+## 2025.06.03 latest demo link enjoy😄:
 1. Telephone/online customer service:
 http://124.220.48.38:8822/cc
  (demo123/demo123@Abc)
@@ -182,9 +182,13 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 
 下图是随机抽取的需求对接的群：
 
+![image](https://github.com/user-attachments/assets/911cd5b8-4aec-42f4-a39e-bda21fff135a)
+![image](https://github.com/user-attachments/assets/bdac425d-9792-427e-bb25-0b4e748e54b8)
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/5dad75c9-432c-4284-b17c-f85211ffe341)
-
+![image](https://github.com/user-attachments/assets/8562bddf-5f11-4f28-abde-b6fe98aa724d)
+![image](https://github.com/user-attachments/assets/cd932862-7b80-4b96-9fc3-c50caaea4ee0)
+![image](https://github.com/user-attachments/assets/5247f74c-89f3-4f3b-befd-04b681055592)
+![image](https://github.com/user-attachments/assets/3862674e-b1d7-4bc4-b3a6-7ecf73077934)
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
