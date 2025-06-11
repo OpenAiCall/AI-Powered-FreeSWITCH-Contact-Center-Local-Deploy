@@ -5,7 +5,7 @@ AI-enhanced call center system, AI-Powered contact center system, based on FreeS
 ## 😄Code integrity: front-end, back-end, database, all complete! All open, no restrictions! No distinction between community version and commercial version!
 ## 😄Functional completeness: call center system, work order system, IM online customer service system, recording system, full functions, unlimited!
 ## 😄Sustainability: It has been continuously iterating since 2014, and the members are very experienced and long-term
-
+## 😄Long-term goal: To empower 10,000 integrators with large-scale call center capabilities and serve 1.2 million customers!
 # Our goal
 Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems!
 
