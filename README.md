@@ -1,22 +1,22 @@
 # AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
-AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!!
+AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!
 
 ## 😄We firmly believe that only when the software is used can it bring value to users and allow itself to iterate
 ## 😄Code integrity: front-end, back-end, database, all complete! All open, no restrictions! No distinction between community version and commercial version!
 ## 😄Functional completeness: call center system, work order system, IM online customer service system, recording system, full functions, unlimited!
 ## 😄Sustainability: It has been continuously iterating since 2014, and the members are very experienced and long-term
-## 😄Long-term goal: To empower 10,000 integrators with large-scale call center capabilities and serve 1.2 million customers!
+## 😄Long-term goal: Leading the development of the call center industry, empowering 10,000 integrators with big model call center capabilities and serving 1.2 million customers!
+
 # Our goal
 Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems!
 
 ## 📫 How to reach us:
-- 官方WeChat:freeipcc
-- Skype：https://join.skype.com/invite/rVbQH1igkQwV
+- WeChat01:freeipcc
+- WeChat02:freeaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
-- Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.06.11 latest demo link enjoy😄:
+## 2025.06.12 latest demo link enjoy😄:
 1. Telephone/online customer service:
 http://124.220.48.38:8822/cc
  (demo123/demo123@Abc)
