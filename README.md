@@ -20,7 +20,7 @@ Committed to becoming: a global leader in large-model call center systems, large
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-## 2025.06.12 latest demo link enjoy😄:
+## 2025.06.13 latest demo link enjoy😄:
 1. Telephone/online customer service:
 http://124.220.48.38:8822/cc
  (demo123/demo123@Abc)
