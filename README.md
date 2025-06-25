@@ -1,5 +1,5 @@
 # AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
-AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!!!!
+AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!!!!!
 
 ## 😄Code integrity: front-end, back-end, database, all complete! All open, no restrictions! No distinction between community version and commercial version!
 ## 😄Functional completeness: call center system, work order system, IM online customer service system, recording system, full functions, unlimited!
