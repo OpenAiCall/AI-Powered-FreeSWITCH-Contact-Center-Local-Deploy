@@ -1,15 +1,20 @@
 # AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
-AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!!!!!!!!!!!!!!!!
+AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!
 
 ## 😄We firmly believe that only when the software is used can it bring value to users and allow itself to iterate
 ## 😄Code integrity: front-end, back-end, database, all complete! All open, no restrictions! No distinction between community version and commercial version!
 ## 😄Functional completeness: call center system, work order system, IM online customer service system, recording system, full functions, unlimited!
 ## 😄Sustainability: It has been continuously iterating since 2014, and the members are very experienced and long-term
 ## 😄Long-term goal: Leading the development of the call center industry, empowering 10,000 integrators with big model call center capabilities and serving 1.2 million customers!
-## 😄Major customer cases: China Telecom, Wasu (Radio and Television), China Unicom, and three of the four major operators have cooperated (China Mobile's 400 business coverage is limited)
+## 😄Major customer cases: China Telecom, Wasu (Radio and Television), China Unicom, and three of the four major operators have cooperated (China Mobile's 400 business coverage is limited);There are cases in tertiary hospitals, China's top universities, and government public departments!
+
 <img src="https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415" width="300" height="100">
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
 <img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
+
+<img src="https://github.com/user-attachments/assets/804f4d98-b39d-42ba-acd0-3911243c264e" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/d13ed06c-7ae3-4bea-b1d4-426e7e869af8" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="300" height="300">
 
 # Our goal
 Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems!
@@ -17,10 +22,11 @@ Committed to becoming: a global leader in large-model call center systems, large
 ## 📫 How to reach us:
 - WeChat01:freeipcc
 - WeChat02:freeaicc
+- WeChat02:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-## 2025.06.23 latest demo link enjoy😄:
+## 2025.06.29 latest demo link enjoy😄:
 1. Telephone/online customer service:
 http://124.220.48.38:8822/cc
  (demo123/demo123@Abc)
