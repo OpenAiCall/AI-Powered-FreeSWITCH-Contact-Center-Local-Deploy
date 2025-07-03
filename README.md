@@ -1,5 +1,5 @@
 # AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
-AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!!!
+AI-enhanced call center system, AI-Powered contact center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls!
 
 ## 😄We firmly believe that only when the software is used can it bring value to users and allow itself to iterate
 ## 😄Code integrity: front-end, back-end, database, all complete! All open, no restrictions! No distinction between community version and commercial version!
@@ -26,7 +26,7 @@ Committed to becoming: a global leader in large-model call center systems, large
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-## 2025.06.29 latest demo link enjoy😄:
+## 2025.07.03 latest demo link enjoy😄:
 1. Telephone/online customer service:
 http://124.220.48.38:8822/cc
  (demo123/demo123@Abc)
